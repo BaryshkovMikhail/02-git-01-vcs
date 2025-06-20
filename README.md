@@ -10,3 +10,5 @@
 - файлы .terraformrc и terraform.rc 
 
 Добавляем новую строчку!!!
+
+Работаем через IDE VS CODE
