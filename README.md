@@ -8,3 +8,5 @@
 - Файлы которые начинаються на _override.tf и _override.tf.json
 - файл .terraform.tfstate.lock.info
 - файлы .terraformrc и terraform.rc 
+
+Добавляем новую строчку!!!
